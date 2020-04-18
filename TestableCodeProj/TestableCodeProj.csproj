@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Introduction\" />
+    <Folder Include="Introduction\EasyToTest\" />
+    <Folder Include="Introduction\HardToTest\" />
+  </ItemGroup>
 </Project>
