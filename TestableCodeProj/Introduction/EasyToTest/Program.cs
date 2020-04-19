@@ -13,7 +13,7 @@ namespace TestableCodeProj.Introduction.EasyToTest
 
             var calculator = new InvoiceCalculator();
 
-            var totalPrice = calculator.GetTotal(partsPrice, servicePrice, discount);
+            var totalPrice = calculator.CalculateTotalPrice(partsPrice, servicePrice, discount);
 
             Console.WriteLine("Easy Total price: $" + totalPrice);
         }

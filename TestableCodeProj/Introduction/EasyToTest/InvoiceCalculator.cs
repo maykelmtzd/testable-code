@@ -3,7 +3,7 @@ namespace TestableCodeProj.Introduction.EasyToTest
 {
     public class InvoiceCalculator
     {
-        public decimal GetTotal(decimal parts, decimal service, decimal discount)
+        public decimal CalculateTotalPrice(decimal parts, decimal service, decimal discount)
         {
             return parts + service - discount;
         }   
