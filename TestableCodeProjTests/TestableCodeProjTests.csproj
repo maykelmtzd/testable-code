@@ -23,6 +23,8 @@
   <ItemGroup>
     <Folder Include="ApplicationState\EasyToTest\" />
     <Folder Include="Dependencies\EasyToTest\" />
+    <Folder Include="SingleResponsability\EasyToTest\" />
+    <Folder Include="SingleResponsability\HardToTest\" />
     <Folder Include="TestableConstructors\EasyToTest\" />
   </ItemGroup>
 </Project>
