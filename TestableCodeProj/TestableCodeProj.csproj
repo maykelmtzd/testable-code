@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -9,5 +9,14 @@
     <Folder Include="Introduction\" />
     <Folder Include="Introduction\EasyToTest\" />
     <Folder Include="Introduction\HardToTest\" />
+    <Folder Include="TestableConstructors\EasyToTest\" />
+    <Folder Include="TestableConstructors\HardToTest\" />
+    <Folder Include="TestableConstructors\Extras\" />
+    <Folder Include="TestableConstructors\Shared\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ninject" Version="3.3.4" />
+    <PackageReference Include="ninject.extensions.conventions" Version="3.3.0" />
   </ItemGroup>
 </Project>
