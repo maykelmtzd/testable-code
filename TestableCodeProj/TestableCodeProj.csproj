@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="ApplicationState\EasyToTest\" />
+    <Folder Include="ApplicationState\HardToTest\" />
+    <Folder Include="ApplicationState\Shared\" />
     <Folder Include="Dependencies\EasyToTest\" />
     <Folder Include="Dependencies\HardToTest\" />
     <Folder Include="Dependencies\Shared\" />
