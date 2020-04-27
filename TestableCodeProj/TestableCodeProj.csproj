@@ -15,8 +15,6 @@
     <Folder Include="Introduction\" />
     <Folder Include="Introduction\EasyToTest\" />
     <Folder Include="Introduction\HardToTest\" />
-    <Folder Include="SingleResponsability\EasyToTest\" />
-    <Folder Include="SingleResponsability\HardToTest\" />
     <Folder Include="SingleResponsability\Shared\" />
     <Folder Include="TestableConstructors\EasyToTest\" />
     <Folder Include="TestableConstructors\HardToTest\" />

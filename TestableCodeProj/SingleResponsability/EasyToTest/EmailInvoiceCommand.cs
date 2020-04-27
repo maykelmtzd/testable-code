@@ -7,7 +7,7 @@ using TestableCodeDemos.Module6.Shared;
 
 namespace TestableCodeDemos.Module6.Easy
 {
-    public class EmailInvoiceCommand
+    public class EmailInvoiceCommand : ICommand
     {
         private readonly IDatabase _database;
         private readonly IInvoiceEmailer _emailer;

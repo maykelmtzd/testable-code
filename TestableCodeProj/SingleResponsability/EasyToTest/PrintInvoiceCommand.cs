@@ -5,7 +5,7 @@ using TestableCodeDemos.Module6.Shared;
 
 namespace TestableCodeDemos.Module6.Easy
 {
-    public class PrintInvoiceCommand
+    public class PrintInvoiceCommand : ICommand
     {
         private readonly IDatabase _database;
         private readonly ISecurity _security;
