@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TestableCodeProj.CreateSeams.Shared
+﻿namespace TestableCodeProj.CreateSeams.Shared
 {
 	public class Invoice
 	{

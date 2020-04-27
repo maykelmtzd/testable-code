@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TestableCodeProj.CreateSeams.EasyToTest
+﻿namespace TestableCodeProj.CreateSeams.EasyToTest
 {
-	public class PrintInvoiceCommand
+    public class PrintInvoiceCommand
 	{
         private readonly IDatabase _database;
         private readonly IPrinter _printer;

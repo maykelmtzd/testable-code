@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace TestableCodeDemos.Module5.Hard
+﻿namespace TestableCodeDemos.Module5.Hard
 {
     public class Security
     {

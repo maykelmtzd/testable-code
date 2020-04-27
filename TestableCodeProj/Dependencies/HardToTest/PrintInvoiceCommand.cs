@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using TestableCodeDemos.Module4.Shared;
+﻿using TestableCodeDemos.Module4.Shared;
 
 namespace TestableCodeDemos.Module4.Hard
 {

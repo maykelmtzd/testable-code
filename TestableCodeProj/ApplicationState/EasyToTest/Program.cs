@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Ninject;
+﻿using Ninject;
 using Ninject.Extensions.Conventions;
 
 namespace TestableCodeDemos.Module5.Easy

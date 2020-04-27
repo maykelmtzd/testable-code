@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TestableCodeProj.CreateSeams.EasyToTest
+﻿namespace TestableCodeProj.CreateSeams.EasyToTest
 {
 	public interface IPrinter
 	{
